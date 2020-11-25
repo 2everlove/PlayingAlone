@@ -1,13 +1,22 @@
 {
     "configurations": [
-
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - methodApp",
+            "request": "launch",
+            "mainClass": "methodApp",
+            "projectName": "1_b8a1d616"
+        },
         {
             "type": "java",
             "name": "CodeLens (Launch) - AuthApp",
             "request": "launch",
             "mainClass": "AuthApp",
             "projectName": "1_b8a1d616",
-            "args": ["apple", "1111"]
+            "args": [
+                "apple",
+                "1111"
+            ]
         },
         {
             "type": "java",
@@ -28,7 +37,6 @@
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}"
-
         },
         {
             "type": "java",
