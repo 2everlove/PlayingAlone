@@ -1,0 +1,83 @@
+{
+    "configurations": [
+
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AuthApp",
+            "request": "launch",
+            "mainClass": "AuthApp",
+            "projectName": "1_b8a1d616",
+            "args": ["apple", "1111"]
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LoopArray",
+            "request": "launch",
+            "mainClass": "LoopArray",
+            "projectName": "1_b8a1d616"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayApp",
+            "request": "launch",
+            "mainClass": "ArrayApp",
+            "projectName": "1_b8a1d616"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HelloWorld<1_b8a1d616>",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "1_b8a1d616"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Datatype<Data_and_mika>",
+            "request": "launch",
+            "mainClass": "Datatype.Datatype",
+            "projectName": "Data_and_mika"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HelloWorldApp<HelloWorld>",
+            "request": "launch",
+            "mainClass": "HelloWorldApp",
+            "projectName": "HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Number<HelloWorld>",
+            "request": "launch",
+            "mainClass": "javatutorials.numberstring.Number",
+            "projectName": "HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OK<Programming_91363237>",
+            "request": "launch",
+            "mainClass": "OK",
+            "projectName": "Programming_91363237"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OK2<Programming_91363237>",
+            "request": "launch",
+            "mainClass": "OK2",
+            "projectName": "Programming_91363237"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Program<Programming_91363237>",
+            "request": "launch",
+            "mainClass": "Program",
+            "projectName": "Programming_91363237"
+        }
+    ],
+}
